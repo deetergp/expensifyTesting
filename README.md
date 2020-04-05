@@ -1,2 +1,2 @@
-# testDumpster
-This is a repo for testing GitHub API &amp; integration nonsense.
+# expensifyTesting
+This is a repo for testing GitHub API actions for Expensify.
